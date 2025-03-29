@@ -4,4 +4,6 @@ build
 items.xml
 input/*
 output/*
+!input/.gitkeep
+!output/.gitkeep
 Formatter
